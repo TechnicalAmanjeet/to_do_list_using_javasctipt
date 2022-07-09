@@ -1,0 +1,12 @@
+***** These are the following thing that can be improved. ****
+
+1. when we edit any list then default prompt of brower open to taking the data from user. it needs to be replaced with bootstrap model or something like that show that our ui look good.
+
+2. right now this project storing data into local storage of computer so user cannot access that from other device. so add database to this project.
+
+3. when we edit any list then give input box inside that list only.
+
+4. add different section like doneTask , undoneTask, set priority to task.
+
+5. when any task has been done and user clicked on done button then the content of done button should be changed to undo.
+
